@@ -128,4 +128,4 @@ nav .nav-cta { color: var(--on-dark); border-bottom: 1px solid var(--brass); pad
 .hero-chart { height: 15%; }
 @media (max-width: 900px) { .hero { padding-bottom: 6rem; } .hero-chart { height: 9%; } }
 @media (max-width: 560px) { .hero-portrait { width: 160px; } }
-.hero-portrait img { object-position: 20% 25%; }
+.hero-portrait img { object-position: 12% 25%; }
